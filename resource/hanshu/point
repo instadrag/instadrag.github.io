@@ -1,0 +1,2 @@
+handle_points = [tensor([[329, 264]])]
+target_points = [tensor([[355, 264]])]
